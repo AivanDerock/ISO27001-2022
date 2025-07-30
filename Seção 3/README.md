@@ -20,8 +20,6 @@ Organizei o conteúdo de forma objetiva, destacando os conceitos mais relevantes
 
 ## 📚 Conteúdo da Aula
 
-
-
 ### Seção 3
 
 - [Aula 11 - Em Breve]()
@@ -31,7 +29,6 @@ Organizei o conteúdo de forma objetiva, destacando os conceitos mais relevantes
 - [Aula 15 - Em Breve]()
 
 ---
-
 
 ### Aula 11 - Em Breve
 
